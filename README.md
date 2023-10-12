@@ -28,11 +28,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Things worth improving
 
-- [] pagination (see explanation below)
-- [] better error handling for API calls
-- [] local storage for the beer list is not ideal when using external API, it's worth unifying that to have a single source of truth for a single type of resource
-- [] loading states for the beer list and beer details (I skipped that for the sake of time)
-- [] icons instead of unicode characters (I used unicode characters for the sake of time)
+- pagination (see explanation below)
+- better error handling for API calls
+- local storage for the beer list is not ideal when using external API, it's worth unifying that to have a single source of truth for a single type of resource
+- loading states for the beer list and beer details (I skipped that for the sake of time)
+- icons instead of unicode characters (I used unicode characters for the sake of time)
 
 ## App overview
 
